@@ -1,3 +1,7 @@
-# Hi 
+---
+permalink: /about/
+title: "About ME"
 
-# This is about me....
+---
+
+## Hi some stuff about me

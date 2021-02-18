@@ -147,6 +147,9 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _activities
+  - _workshops
+  - _scientists
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -199,6 +202,10 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+# Categories
+#collections:
+
 
 
 # Sass/SCSS

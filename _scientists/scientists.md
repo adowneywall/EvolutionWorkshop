@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /
-hidden: true
+permalink: /scientists/
+title: "Meet our Scientists!"
 
 nonGenetic:
   - image_path: /assets/images/activities/nonGeneticInheritance_thumb.png

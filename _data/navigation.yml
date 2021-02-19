@@ -5,7 +5,7 @@ main:
   - title: "The Workshop"
     url: /workshops/workshopHome/
   - title: "The Scientists"
-    url: /scientists/scientists/
+    url: /scientists/
   - title: "About Us"
     url: /about/
   - title: "Contact Us"

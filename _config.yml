@@ -158,6 +158,8 @@ include:
   - .htaccess
   - _pages
   - _scientists
+  - _activities
+  - _workshop
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

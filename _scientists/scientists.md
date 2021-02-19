@@ -14,8 +14,12 @@ intro:
 lotterhos:
   - image_path: /assets/images/portraits/Lotterhos3.png
     alt: "placeholder image 2"
-    title: "Dr. Katie Lotterhos
-    excerpt: ''
+    title: "Dr. Katie Lotterhos"
+    excerpt: 'Dr. Katie Lotterhos is an assistant professor at the Northeastern University Marine Science Center. Her research uses eco-evolutionary genomics to understand how climate has shaped biodiversity and how a now rapidly changing climate will affect biodiversity in the future. To learn more about Dr. Lotterhos’ research, please follow the information below. <br>
+    [<i class="far fa-envelope"></i>](k.lotterhos@northeastern.edu) <br>
+    <i class="fab fa-twitter"></i> : @DrK_Lo <br>
+    [<i class="fas fa-laptop"></i>](https://sites.google.com/site/katielotterhos/home) <br>
+    [**Google Scholar**](https://tinyurl.com/DrKLoGoogleScholar)'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -33,7 +37,7 @@ cameron:
   - image_path: /assets/images/portraits/Cameron.png
     alt: "placeholder image 2"
     title: "Dr. Louise Cameron"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: ''
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"

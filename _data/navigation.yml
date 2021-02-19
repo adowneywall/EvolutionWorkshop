@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Activities"
-    url: /activities/activities/
+    url: /activities/
   - title: "The Workshop"
-    url: /workshops/workshopHome/
+    url: /workshopHome/
   - title: "The Scientists"
     url: /scientists/
   - title: "About Us"

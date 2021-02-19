@@ -1,7 +1,16 @@
 ---
 layout: splash
-permalink: /
-hidden: true
+permalink: /workshopHome/
+title: "Try our Ecological and Evolutionary themed activities!"
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header_beachSurvey.png
+
+
+intro: 
+  - excerpt: 'Summary note HERE about the activities'
 
 nonGenetic:
   - image_path: /assets/images/activities/nonGeneticInheritance_thumb.png
@@ -49,6 +58,7 @@ slim:
     btn_class: "btn--primary"
 ---
 
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="nonGenetic" type="right" %}
 

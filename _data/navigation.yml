@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Activities"
-    url: /activities/
+    url: /activities/activities/
   - title: "The Workshop"
-    url: /workshop/
+    url: /workshops/workshopHome/
   - title: "The Scientists"
-    url: /scientists/
+    url: /scientists/scientists/
   - title: "About Us"
     url: /about/
   - title: "Contact Us"

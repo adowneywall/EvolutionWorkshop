@@ -30,37 +30,53 @@ oa:
   - image_path: /assets/images/activities/oa_thumb.png
     alt: "placeholder image 2"
     title: "Effect of OA on marine calcifying organisms"
-    excerpt: ''
-    url: "#test-link"
+    excerpt: '**Overview**  <br>
+    XXXXX <br>
+    **Learning Level** <br>
+    Middle School (6th - 8th) <br>
+    High School (9th - 12th) <br>
+    **Duration** <br>
+    Class time: 40 - 60 minutes'
+    url: "/oa/"
     btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 seagrass:
   - image_path: /assets/images/activities/seagrass_thumb.png
     alt: "placeholder image 2"
-    title: "Seagrass Activity"
-    excerpt: ''
-    url: "#test-link"
+    title: "Seagrass Wasting Disease"
+    excerpt: '**Overview**  <br>
+    XXXXX <br>
+    **Learning Level** <br>
+    High School (9th - 12th) <br>
+    **Duration** <br>
+    Class time: 30 - 40 minutes'
+    url: "/seagrass/"
     btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 microbe:
   - image_path: /assets/images/activities/microbe_thumb.jpeg
     alt: "placeholder image 2"
-    title: "Microbe Activity"
-    excerpt: ''
-    url: "#test-link"
+    title: "Modeling the Dynamic Oyster Microbiome"
+    excerpt: '**Overview**  <br>
+    XXXXX <br>
+    **Learning Level** <br>
+    High School (9th - 12th) <br>
+    **Duration** <br>
+    Class time: 30 - 40 minutes'
+    url: "/microbes/"
     btn_label: "Full Activity"
     btn_class: "btn--primary"
 
-slim:
-  - image_path: /assets/images/activities/slim_thumb.png
-    alt: "placeholder image 2"
-    title: "Slim Activity"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Full Activity"
-    btn_class: "btn--primary"
+#slim:
+#  - image_path: /assets/images/activities/slim_thumb.png
+#    alt: "placeholder image 2"
+#    title: "Slim Activity"
+#    excerpt: ''
+#    url: "#test-link"
+#    #btn_label: "Full Activity"
+#    #btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

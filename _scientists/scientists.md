@@ -20,45 +20,54 @@ lotterhos:
     <i class="fab fa-twitter"></i> : @DrK_Lo <br>
     [<i class="fas fa-laptop"></i>](https://sites.google.com/site/katielotterhos/home) <br>
     [**Google Scholar**](https://tinyurl.com/DrKLoGoogleScholar)'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "#test-link
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 hanley:
   - image_path: /assets/images/portraits/Hanley.png
     alt: "placeholder image 2"
     title: "Dr. Torrie Hanley"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: 'Dr. Torrance Hanley is an associate research scientist at the Northeastern University Marine Science Center. She is interested in examining the role of diversity in trophic interactions using seagrass and salt marsh communities. To learn more about Dr. Hanley’s research, please visit the links below or contact her with the information below. <br>
+    [<i class="far fa-envelope"></i>](t.hanley@northeastern.edu) <br>
+    [**Google Scholar**](https://tinyurl.com/THanleyGoogleScholar)'
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 cameron:
   - image_path: /assets/images/portraits/Cameron.png
     alt: "placeholder image 2"
     title: "Dr. Louise Cameron"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: ' Dr. Louise Cameron completed her PhD at the Northeastern University Marine Science Center working in the Grabowski and Ries labs. Her research examined bivalve vulnerability and resilience to ocean acidification. She is currently doing a postdoc with Dr. Aleck Wang at Woods Hole Oceanographic Institute, where she is measuring benthic carbonate chemistry across Atlantic sea scallop fishing grounds to create a spatial model of the sensitivity of Atlantic sea scallop fishing grounds in future ocean acidification conditions. To learn more about Dr. Cameron’s research, please use the information below. <br>
+    [<i class="far fa-envelope"></i>](lcameron@whoi.edu) <br>
+    <i class="fab fa-twitter"></i> : @XXXX <br>
+    [<i class="fas fa-laptop"></i>](https://louisecameronphd.wordpress.com/) <br>
+    [**Google Scholar**](https://tinyurl.com/LCameronGoogleScholar)'
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 unzueta:
   - image_path: /assets/images/portraits/Andrea.png
     alt: "placeholder image 2"
     title: "Andrea Unzueta-Martinez"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: 'Andrea Unzueta-Martinez is a doctoral candidate working in the lab of Dr. Jennifer Bowen. Ms. Unzueta-Martinez is interested in understanding the relationship between microbes and their hosts in the context of global change and disease in marine environments. Her research can help to identify ways to make oysters more resilient to changes in the ocean, fight disease, or growfaster. To learn more about Ms. Unzueta-Martinez’ research, please follow the information below. <br>
+    [<i class="far fa-envelope"></i>](unzuetamartinez.a@northeastern.edu) <br>
+    <i class="fab fa-twitter"></i> : @AndreaUnzuetaM <br>
+    [**Google Scholar**](https://tinyurl.com/AUMGoogleScholar)'
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 schaal:
   - image_path: /assets/images/portraits/Schaal.png
     alt: "placeholder image 2"
     title: "Sara Schaal"
     excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

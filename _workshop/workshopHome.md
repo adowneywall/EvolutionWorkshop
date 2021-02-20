@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /workshopHome/
-title: "Try our Ecological and Evolutionary themed activities!"
+title: "Annual Workshops"
 
 header:
   overlay_color: "#000"

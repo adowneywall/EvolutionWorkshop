@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /activities/
-title: "Try our Ecological and Evolutionary themed activities!"
+title: "Ecological and Evolutionary themed activities!"
 
 header:
   overlay_color: "#000"
@@ -16,45 +16,50 @@ nonGenetic:
   - image_path: /assets/images/activities/nonGeneticInheritance_thumb.png
     alt: "placeholder image 2"
     title: "Non-genetic Inheritance"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: '**Overview**  <br>
+    Entry level investigation of non-genetic inheritance in Eastern oysters. <br>
+    **Learning Level** <br>
+    High School (9th - 12th) <br>
+    **Duration** <br>
+    Class time: 30 - 45 minutes'
+    url: "/nonGeneticInheritance/"
+    btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 oa:
   - image_path: /assets/images/activities/oa_thumb.png
     alt: "placeholder image 2"
     title: "Effect of OA on marine calcifying organisms"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: ''
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 seagrass:
   - image_path: /assets/images/activities/seagrass_thumb.png
     alt: "placeholder image 2"
     title: "Seagrass Activity"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: ''
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 microbe:
   - image_path: /assets/images/activities/microbe_thumb.jpeg
     alt: "placeholder image 2"
     title: "Microbe Activity"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: ''
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Full Activity"
     btn_class: "btn--primary"
 
 slim:
   - image_path: /assets/images/activities/slim_thumb.png
     alt: "placeholder image 2"
     title: "Slim Activity"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: ''
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Full Activity"
     btn_class: "btn--primary"
 ---
 

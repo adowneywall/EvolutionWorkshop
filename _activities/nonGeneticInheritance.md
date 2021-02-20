@@ -1,5 +1,5 @@
 ---
-permalink: /nonGenetic/
+permalink: /nonGeneticInheritance/
 title: "Non-genetic Inheritance Activity"
 
 sidebar:

@@ -1,6 +1,6 @@
 ---
-permalink: /nonGeneticInheritance/
-title: "Non-genetic Inheritance Activity"
+permalink: /seagrass/
+title: "Seagrass Wasting Disease"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header_beachSurvey.png
@@ -9,21 +9,23 @@ sidebar:
   - title: "Learning Level"
     text: "High School (9th - 12th)"
   - title: "Duration"
-    text: "Class time: 30 - 45 minutes <br> Teacher preparation: 5 - 10 minutes"
+    text: "Class time: 30 - 40 minutes <br> Teacher preparation: 5 minutes"
   - title: "Next Generation Science Standards"
-    text: " **HS-LS3-1 Heredity: Inheritance and Variation of Traits** <br> Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring."
+    text: " ****HS-LS4-4 Biological Evolution: Unity Construct and Diversity** Construct and Diversity an explanation based on evidence for how natural selection leads to adaptation of populations. <br>  **HS-ESS3-6 Earth and Human Activity** Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity."
     
 ---
 
 ## Overview 
 
-Calcification is a process that some marine organisms do to form their hard protective shell. Organisms take calcium (Ca 2+) and carbonate ions (CO32-) from the seawater to the form calcium carbonate (CaCO3), which is what the hard shell is made of. Animals have different rates at which they are able to calcify, which depends on two factors: genetics and environment. This activity will discuss both factors, but will dive deeper into the environmental component and explore current research that scientists are doing at the Northeastern University Marine Science Center. This activity requires minimal preparation and allows students to explore the topic through a comprehensive worksheet.
- 
+Seagrass is a foundation species that creates a unique habitat for many different organisms; however, seagrass
+wasting disease is killing off this important plant. This interactive activity explores the impact of seagrass wasting disease on different genotypes of seagrass. Students will identify and quantify seagrass wasting disease and then
+learn how to use microsatellites to identify and differentiate among seagrass genotypes.
+
 ## Teacher Version of Activity
 
-<object data="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf">Download PDF</a>.</p>
+<object data="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf">Download PDF</a>.</p>
 </object>
 
 ## [PDF](https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)

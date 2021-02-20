@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /activities/
-title: "Ecological and Evolutionary themed activities!"
+title: "Ecological and Evolutionary themed activities"
 
 header:
   overlay_color: "#000"

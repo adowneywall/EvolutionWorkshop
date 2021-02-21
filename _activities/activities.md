@@ -10,7 +10,7 @@ header:
 
 
 intro: 
-  - excerpt: 'Summary note HERE about the activities'
+  - excerpt: ''
 
 nonGenetic:
   - image_path: /assets/images/activities/nonGeneticInheritance_thumb.png

@@ -1,15 +1,7 @@
 ---
-layout: splash
+layout: archive 
 permalink: /nonGeneticInheritance/
 title: "Non-genetic Inheritance Activity"
-
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/header_beachSurvey.png
-
-intro: 
-  - excerpt: 'Hi'
 
 sidebar:
   - title: "Learning Level"
@@ -20,5 +12,3 @@ sidebar:
     text: " **HS-LS3-1 Heredity: Inheritance and Variation of Traits** <br> Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring."
 
 ---
-
-{% include feature_row id="intro" type="center" %}

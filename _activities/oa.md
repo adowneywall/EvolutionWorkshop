@@ -1,9 +1,7 @@
 ---
+layout: archive
 permalink: /oa/
 title: "Ocean Acidification: Shell Crushing Game"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header_beachSurvey.png
 
 sidebar:
   - title: "Learning Level"

@@ -1,9 +1,8 @@
 ---
+layout: archive
 permalink: /microbes/
 title: "Modeling the Dynamic Oyster Microbiome"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header_beachSurvey.png
+
 
 sidebar:
   - title: "Learning Level"

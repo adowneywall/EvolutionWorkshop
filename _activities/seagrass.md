@@ -1,9 +1,7 @@
 ---
+layout: archive
 permalink: /seagrass/
 title: "Seagrass Wasting Disease"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header_beachSurvey.png
 
 sidebar:
   - title: "Learning Level"

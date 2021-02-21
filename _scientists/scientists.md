@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 
 intro: 
-  - excerpt: 'Summary note HERE about the scientists'
+  - excerpt: ''
 
 lotterhos:
   - image_path: /assets/images/portraits/Lotterhos3.png

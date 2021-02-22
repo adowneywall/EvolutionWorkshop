@@ -5,13 +5,13 @@ title: "About Us"
 
 gallery:
   - url: https://sites.google.com/site/katielotterhos/home?authuser=0
-    image_path: assets/images/icons/lotterhoslab.png
+    image_path: assets/images/icons/lotterhoslab_large.png
     alt: "placeholder image 1"
   - url: https://www.nsf.gov/
-    image_path: assets/images/icons/nsf.png
+    image_path: assets/images/icons/nsf_large.png
     alt: "placeholder image 2"
   - url: https://cos.northeastern.edu/marinescience/
-    image_path: assets/images/icons/NUicon.jpg
+    image_path: assets/images/icons/NUicon_large.jpg
     alt: "placeholder image 3"  
 ---
 

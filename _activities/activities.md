@@ -17,7 +17,7 @@ nonGenetic:
     alt: "placeholder image 2"
     title: "Non-genetic Inheritance"
     excerpt: '**Overview**  <br>
-    Entry level investigation of non-genetic inheritance in Eastern oysters. <br>
+    An introduction into the concept of non-genetic inheritance, examining the effect of ocean acidification in Eastern oysters. <br>
     **Learning Level** <br>
     High School (9th - 12th) <br>
     **Duration** <br>
@@ -31,7 +31,7 @@ oa:
     alt: "placeholder image 2"
     title: "Effect of OA on marine calcifying organisms"
     excerpt: '**Overview**  <br>
-    XXXXX <br>
+    An exercise looking at the impact of ocean acidification on calcium carbonate formation and shell strength. <br>
     **Learning Level** <br>
     Middle School (6th - 8th) <br>
     High School (9th - 12th) <br>
@@ -46,7 +46,7 @@ seagrass:
     alt: "placeholder image 2"
     title: "Seagrass Wasting Disease"
     excerpt: '**Overview**  <br>
-    XXXXX <br>
+    A look at the role of genetic diversity on the prevalence of seagrass wasting disease. <br>
     **Learning Level** <br>
     High School (9th - 12th) <br>
     **Duration** <br>
@@ -60,7 +60,7 @@ microbe:
     alt: "placeholder image 2"
     title: "Modeling the Dynamic Oyster Microbiome"
     excerpt: '**Overview**  <br>
-    XXXXX <br>
+    An up close look at the diverse microbiome of the Eastern oyster. <br>
     **Learning Level** <br>
     High School (9th - 12th) <br>
     **Duration** <br>

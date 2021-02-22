@@ -83,18 +83,18 @@ microbe:
 
 {% include feature_row id="nonGenetic" type="right" %}
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 {% include feature_row id="oa" type="left" %}
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 {% include feature_row id="seagrass" type="right" %}
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 {% include feature_row id="microbe" type="left" %}
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 {% include feature_row id="slim" type="right" %}

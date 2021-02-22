@@ -10,6 +10,9 @@ sidebar:
     text: "Class time: 40 - 60 minutes <br> Teacher preparation: 1 - 2 hours"
   - title: "Next Generation Science Standards"
     text: " **HS-ESS3-6 Earth and Human Activity** <br>  Use a computational representation to illustrate the relationships among  Earth systems and how those relationships are being modified due to human activity. <br>  **HS-ESS3-3 Earth and Human Activity** Create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, and biodiversity."
+  - title: "Developer"
+    text: "Dr. Louise Cameron"
+    image: /assets/images/portraits/Cameron.png
     
 ---
 

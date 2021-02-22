@@ -11,7 +11,10 @@ sidebar:
     text: "Class time: 30 - 40 minutes <br> Teacher preparation: 15 - 30 minutes"
   - title: "Next Generation Science Standards"
     text: " **HS-LS2-6 Ecosystems: Interactions,Energy, and Dynamics** Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem."
-    
+  - title: "Developer"
+    text: "Andrea Unzueta-Martinez"
+    image: /assets/images/portraits/Andrea.png
+
 ---
 
 ## Overview 

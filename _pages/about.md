@@ -1,10 +1,20 @@
 ---
+layout: categories
 permalink: /about/
 title: "About Us"
 
+gallery:
+  - url: https://sites.google.com/site/katielotterhos/home?authuser=0
+    image_path: assets/images/icons/lotterhoslab.png
+    alt: "placeholder image 1"
+  - url: https://www.nsf.gov/
+    image_path: assets/images/icons/nsf.png
+    alt: "placeholder image 2"
+  - url: https://cos.northeastern.edu/marinescience/
+    image_path: assets/images/icons/NUicon.jpg
+    alt: "placeholder image 3"  
 ---
 
-# WORK IN PROGRESS
 
 The **Evolution in Changing Seas web page** is a website aimed at offer innovative and unique education resources curated by scientists from the [Northeastern Marine Science Center](https://cos.northeastern.edu/marinescience/) and the lab of Dr. Katie Lotterhos ([Lab page](https://sites.google.com/site/katielotterhos/home?authuser=0)). The goal of this resource is to explore fundamental ecological and evolutionary concepts through the lens of marine systems and global climate change.
 
@@ -17,3 +27,8 @@ The mission of this website and workshop is to help educate high school girls ab
 ### Additional Resources
 
 For more marine themed activities check out the [outreach program website at the marine science center!](https://cos.northeastern.edu/marinescience/outreach/educator-resources/) 
+
+### Funding and Support  
+
+
+

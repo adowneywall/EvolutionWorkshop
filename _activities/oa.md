@@ -16,7 +16,7 @@ sidebar:
 
 ## Overview 
 
-As greenhouse gases such as carbon dioxide (CO<sup>2</sup>) are released into the atmosphere, a portion is dissolved into the ocean. This causes the ocean to become more acidic, which makes it difficult for marine calcifiers to build their shells. To demonstrate to students the effect of ocean acidification on these marine calcifiers, the shell crushing game can be conducted. This activity requires some building, materials, and work ahead of time, but once it is built, it can be used over again and is loads of fun! With a constructed crushing lobster claw, students will test the strength of present day and acidified ‘shells’. Students will then compare how strong their control and acidified shells were to understand the effects of ocean acidification on calcifiers.
+As greenhouse gases such as carbon dioxide (CO<sub>2</sub>) are released into the atmosphere, a portion is dissolved into the ocean. This causes the ocean to become more acidic, which makes it difficult for marine calcifiers to build their shells. To demonstrate to students the effect of ocean acidification on these marine calcifiers, the shell crushing game can be conducted. This activity requires some building, materials, and work ahead of time, but once it is built, it can be used over again and is loads of fun! With a constructed crushing lobster claw, students will test the strength of present day and acidified ‘shells’. Students will then compare how strong their control and acidified shells were to understand the effects of ocean acidification on calcifiers.
  
  
 ## Teacher Version of Activity

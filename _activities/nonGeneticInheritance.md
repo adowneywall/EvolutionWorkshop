@@ -15,7 +15,7 @@ sidebar:
 
 ## Overview 
 
-Calcification is a process that some marine organisms do to form their hard protective shell. Organisms take calcium (Ca 2+) and carbonate ions (CO32-) from the seawater to the form calcium carbonate (CaCO3), which is what the hard shell is made of. Animals have different rates at which they are able to calcify, which depends on two factors: genetics and environment. This activity will discuss both factors, but will dive deeper into the environmental component and explore current research that scientists are doing at the Northeastern University Marine Science Center. This activity requires minimal preparation and allows students to explore the topic through a comprehensive worksheet.
+Calcification is a process that some marine organisms do to form their hard protective shell. Organisms take calcium (Ca <sup>2+</sup>) and carbonate ions (CO<sub>3</sub>sub><sup>2-</sup>) from the seawater to the form calcium carbonate (CaCO<sup>3</sup>), which is what the hard shell is made of. Animals have different rates at which they are able to calcify, which depends on two factors: genetics and environment. This activity will discuss both factors, but will dive deeper into the environmental component and explore current research that scientists are doing at the Northeastern University Marine Science Center. This activity requires minimal preparation and allows students to explore the topic through a comprehensive worksheet.
  
 ## Teacher Version of Activity
 
@@ -24,5 +24,7 @@ Calcification is a process that some marine organisms do to form their hard prot
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf">Download PDF</a>.</p>
 </object>
 
+
+<a href="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" download>Click to Download</a>
 
 ## [PDF](https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)

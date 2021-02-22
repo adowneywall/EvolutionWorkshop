@@ -64,7 +64,8 @@ schaal:
   - image_path: /assets/images/portraits/Schaal.png
     alt: "placeholder image 2"
     title: "Sara Schaal"
-    excerpt: ''
+    excerpt: 'Sara Schaal is a doctoral candidate working in the lab of Dr. Katie Lotterhos. Ms. Schaal is interested in fisheries management, evolutionary adaptation to climate change, how local adaptation leads to population divergence and understanding ecology and evolution through the use of mathematical models. Her dissertation is using an integrated genomic approach to improve our unstanding and management of the Atlantic cod fisheries.'
+    [<i class="far fa-envelope"></i>](schaal.s@northeastern.edu) <br>
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"

@@ -22,13 +22,21 @@ Calcification is a process that some marine organisms do to form their hard prot
  
 ## Teacher Version of Activity
 
-<object data="https://drive.google.com/file/d/17ufeWbeoq64AtSmPvFwwhbSiFY0faqOU/view?usp=sharing" type="application/pdf" width="700px" height="700px">
-    <embed src="https://drive.google.com/file/d/17ufeWbeoq64AtSmPvFwwhbSiFY0faqOU/view?usp=sharing">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/17ufeWbeoq64AtSmPvFwwhbSiFY0faqOU/view?usp=sharing">Download PDF</a>.</p>
-</object>
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/17ufeWbeoq64AtSmPvFwwhbSiFY0faqOU/view?usp=sharing" width="500" height="375">
-
-<a href="https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" download>Click to Download</a>
-
 ## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)
+
+# Introduction
+
+## Purposes:
+- Quantification of DNA or RNA
+- Requires laptop that lives in the Bowen Lab
+
+## Location: Shared Molecular Lab
+
+## Protocols: 
+
+[Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf)
+
+<object data="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200TapeStation_Guide.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200TapeStation_Guide.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf">Download PDF</a>.</p>
+    </object>

@@ -30,5 +30,5 @@ For more marine themed activities check out the [outreach program website at the
 
 ### Funding and Support  
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption=" " %}
 

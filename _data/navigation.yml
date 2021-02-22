@@ -2,6 +2,15 @@
 main:
   - title: "Activities"
     url: /activities/
+    children:
+      - title: "Non-genetic Inheritance"
+        url: /nonGeneticInheritance/
+      - title: "Ocean Acidfication"
+        url: /oa/
+      - title: "Seagrass Wasting Disease and Genetic Diversity"
+        url: /seagrass/
+      - title: "Host-associated Microbiome Diversity"
+        url: /microbes/
   - title: "The Workshop"
     url: /workshopHome/
   - title: "The Scientists"

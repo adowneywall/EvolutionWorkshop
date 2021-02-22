@@ -24,15 +24,12 @@ Calcification is a process that some marine organisms do to form their hard prot
 
 ## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)
 
-# Introduction
+[Download Protocol](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)
 
-## Purposes:
-- Quantification of DNA or RNA
-- Requires laptop that lives in the Bowen Lab
-
-## Location: Shared Molecular Lab
-
-## Protocols: 
+<object data="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf">Download PDF</a>.</p>
+    </object>
 
 [Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf)
 

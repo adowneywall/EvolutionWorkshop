@@ -12,7 +12,7 @@ intro:
   - excerpt: ''
 
 lotterhos:
-  - image_path: /assets/images/portraits/Lotterhos3.png
+  - image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "placeholder image 2"
     title: "Dr. Katie Lotterhos"
     excerpt: 'Dr. Katie Lotterhos is an assistant professor at the Northeastern University Marine Science Center. Her research uses eco-evolutionary genomics to understand how climate has shaped biodiversity and how a now rapidly changing climate will affect biodiversity in the future. To learn more about Dr. Lotterhos’ research, please follow the information below. <br>

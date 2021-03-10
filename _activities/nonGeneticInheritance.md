@@ -12,7 +12,7 @@ sidebar:
     text: " **HS-LS3-1 Heredity: Inheritance and Variation of Traits** <br> Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring."
   - title: "Developer"
     text: " Dr. Katie Lotterhos"
-    image: /assets/images/portraits/Lotterhos3.png
+    image: /assets/images/portraits/Lotterhos3.jpeg
 
 ---
 

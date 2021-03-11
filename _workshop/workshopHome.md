@@ -18,10 +18,15 @@ pastWorkshop:
   - title: "Past Workshops"
 
 imagesWorkshop:
-  - image_path: /assets/images/workshop/montage_small2.png
+  - image_path: /assets/images/workshop/2019Flyer.jpg
     alt: "placeholder image 1"
-  - image_path: /assets/images/workshop/workshop_thumb.png
+    title: "2019 Workshop"
+  - image_path: /assets/images/workshop/2020Flyer.jpg
     alt: "placeholder image 2"
+    title: "2020 Workshop"
+
+ photoTitle:
+  - title: "Photos"
         
 ---
 
@@ -39,5 +44,7 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 {% include feature_row id="pastWorkshop" type="center" %}
 
 {% include feature_row id="imagesWorkshop" %}
+
+{% include feature_row id="photoTitle" type="center" %}
 
 <hr style="border:2px solid gray">

@@ -21,6 +21,10 @@ imagesWorkshop:
   - image_path: /assets/images/workshop/2019Flyer.jpg
     alt: "placeholder image 1"
     title: "2019 Workshop"
+  - image_path: <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/images/workshop/GenomicsWorkshopScheduleExample.pdf" width="900" height="1200">
+    alt: "placeholder"
+    title: "Sample Schedule"
   - image_path: /assets/images/workshop/2020Flyer.jpg
     alt: "placeholder image 2"
     title: "2020 Workshop"
@@ -72,7 +76,7 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 
 {% include feature_row id="pastWorkshop" type="center" %}
 
-{% include feature_row id="imagesWorkshop" type="center" %}
+{% include feature_row id="imagesWorkshop" %}
 
 {% include feature_row id="photoTitle" type="center" %}
 

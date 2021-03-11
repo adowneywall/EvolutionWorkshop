@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: wide
 permalink: /seagrass/
 title: "Seagrass Wasting Disease"
 
@@ -20,13 +20,7 @@ sidebar:
 
 Seagrass is a foundation species that creates a unique habitat for many different organisms; however, seagrass wasting disease is killing off this important plant. This interactive activity explores the impact of seagrass wasting disease on different genotypes of seagrass. Students will identify and quantify seagrass wasting disease and then learn how to use microsatellites to identify and differentiate among seagrass genotypes.
 
-## Teacher Version of Activity
-
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf" width="500" height="375">
-
-
-
-## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf)
+viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf" width="800" height="800">
 
 

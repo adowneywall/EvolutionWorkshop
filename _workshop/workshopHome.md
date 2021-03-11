@@ -12,7 +12,7 @@ intro:
   - excerpt: ''
 
 currentNotification:
-   - title: "Workshop Announcements - March 2021"
+  - title: "Workshop Announcements - March 2021"
     excerpt: 'Workshops are currently not on-going at this time. We hope to have more in the future, pending funding. <br>
     For additional outreach opportunities at the Marine Science Center at Northeastern University please visit our [outreach webpage](https://cos.northeastern.edu/marinescience/outreach/) or contact our Outreach Program Coordinator, Sierra Muñoz ([mscoutreach@northeastern.edu](mscoutreach@northeastern.edu)).' 
 

@@ -27,7 +27,7 @@ nonGenetic:
     btn_class: "btn--primary"
 
 oa:
-  - image_path: /assets/images/activities/oa_thumb.png
+  - image_path: /assets/images/activities/shellfish1.jpeg
     alt: "placeholder image 2"
     title: "Effect of OA on marine calcifying organisms"
     excerpt: '**Overview**  <br>
@@ -56,7 +56,7 @@ seagrass:
     btn_class: "btn--primary"
 
 microbe:
-  - image_path: /assets/images/activities/microbe_thumb.jpeg
+  - image_path: /assets/images/activities/oyster1.jpeg
     alt: "placeholder image 2"
     title: "Modeling the Dynamic Oyster Microbiome"
     excerpt: '**Overview**  <br>

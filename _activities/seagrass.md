@@ -19,8 +19,6 @@ sidebar:
 
 ## Overview 
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/activities/seagrass_thumb.png){: .align-right}
-
 Seagrass is a foundation species that creates a unique habitat for many different organisms; however, seagrass wasting disease is killing off this important plant. This interactive activity explores the impact of seagrass wasting disease on different genotypes of seagrass. Students will identify and quantify seagrass wasting disease and then learn how to use microsatellites to identify and differentiate among seagrass genotypes.
 
 ## Teacher Version of Activity

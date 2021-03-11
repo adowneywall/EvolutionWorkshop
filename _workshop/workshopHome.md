@@ -38,6 +38,18 @@ imagesActivities:
 
 imageActivitiesExcerpt: 
   - excerpt: 'Hands-on exposure - Students interacting with graduate students and post-docs during the targeted activities portion of the workshop. For examples of some of these activities please visit our [Activities](/activities/) page!'
+
+feedback:
+  - title: "Feedback"
+
+testimonials: 
+  - title: "Testimonials"
+    excerpt: ' Our daughter has a high expectation of educational quality and is not always easily satisfied, but she enjoyed this program and thought it was worth spending two February vacation days. She told us all about the activities each day. She gave high marks to the instructors, too, for their knowledge and concern. One thing she mentioned that I'm glad you did was talk about the challenges women scientists face in the workplace. Thanks for offering the program. <br>
+    <br>
+     Our daughter had a great experience! The 'real-life experience' with professor's, researcher's, and graduate students in their work-place environment was very beneficial to educating our daughter in areas of science that she may not otherwise get to experience in such depth on her own. The addition of insight into the college application process, and opportunities for future work in scientific research and engineering was a great additional element to the program. <br>
+    <br>
+    The workshop was an excellent introduction to higher level science in the area of my child's interest. She is very interested in Marine biology, and this is the perfect way for her to learn about a career in the field.'
+ 
 ---
 
 
@@ -62,3 +74,7 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 {% include feature_row id="imageActivitiesExcerpt" type="center" %}
 
 <hr style="border:2px solid gray">
+
+{% include feature_row id="feedback" type="center" %}
+
+

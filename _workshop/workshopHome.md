@@ -10,7 +10,7 @@ header:
 
 intro: 
   - excerpt: ''
-  - 
+
 currentNotification:
   - image_path: /assets/images/workshop/workshop_thumb.png
     alt: "placeholder image 2"

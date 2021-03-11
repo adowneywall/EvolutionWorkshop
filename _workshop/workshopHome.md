@@ -28,9 +28,6 @@ imagesWorkshop:
     alt: "placeholder image 2"
     title: "2020 Workshop"
 
-photoTitle:
-  - title: "Photos"
-
 imagesActivities:
   - image_path: /assets/images/workshop/aki1_square.jpg
     alt: "placeholder image 1"
@@ -76,8 +73,6 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 {% include feature_row id="pastWorkshop" type="center" %}
 
 {% include feature_row id="imagesWorkshop" %}
-
-{% include feature_row id="photoTitle" type="center" %}
 
 {% include feature_row id="imagesActivities" %}
 

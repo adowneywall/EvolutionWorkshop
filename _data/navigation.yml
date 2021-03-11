@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Activities"
+    url: /activities/
     children:
       - title: "Our Activities"
         url: /activities/

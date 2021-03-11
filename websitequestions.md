@@ -18,5 +18,4 @@
 ## Things Still to do
 
 1) Slim activity and sara bio update
-2) Work on photo quality and format issue (ideal need to get some new photos for this)
 

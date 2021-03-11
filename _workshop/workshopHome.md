@@ -39,6 +39,10 @@ imagesActivities:
 imageActivitiesExcerpt: 
   - excerpt: 'Hands-on exposure - Students interacting with graduate students and post-docs during the targeted activities portion of the workshop. For examples of some of these activities please visit our [Activities](/activities/) page!'
 
+
+imagePosterExcerpt: 
+  - excerpt: 'Getting to know the terms - Students provide their understanding about evolutionary and marine terms before the start of the workshop.'
+
 feedback:
   - title: "Feedback"
 
@@ -68,6 +72,10 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 {% include feature_row id="imagesActivities" %}
 
 {% include feature_row id="imageActivitiesExcerpt" type="center" %}
+
+
+
+{% include feature_row id="imagePosterExcerpt" type="center" %}
 
 <hr style="border:2px solid gray">
 

@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: archive
 permalink: /seagrass/
 title: "Seagrass Wasting Disease"
 

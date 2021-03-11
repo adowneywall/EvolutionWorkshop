@@ -1,8 +1,9 @@
 # main links
 main:
   - title: "Activities"
-    url: /activities/
     children:
+      - title: "Our Activities"
+        url: /activities/
       - title: "Non-genetic Inheritance"
         url: /nonGeneticInheritance/
       - title: "Ocean Acidfication"

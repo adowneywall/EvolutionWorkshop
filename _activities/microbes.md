@@ -23,6 +23,6 @@ Microbes play essential roles in the health and livelihoods of all plants and an
  
 ## Teacher Version of Activity
 
-## [PDF](https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)
+## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/microbeActivity.pdf)
 
 

@@ -12,7 +12,7 @@ sidebar:
     text: " **HS-LS4-4 Biological Evolution: Unity Construct and Diversity** Construct and Diversity an explanation based on evidence for how natural selection leads to adaptation of populations. <br>  **HS-ESS3-6 Earth and Human Activity** Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity."
   - title: "Developer"
     text: "Dr. Torrie Hanley"
-    image: /assets/images/portraits/Hanley.png
+    image: /assets/images/portraits/Hanley.jpeg
 
 ---
 

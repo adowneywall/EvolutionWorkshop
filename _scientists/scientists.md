@@ -25,7 +25,7 @@ lotterhos:
     #btn_class: "btn--primary"
 
 hanley:
-  - image_path: /assets/images/portraits/Hanley.png
+  - image_path: /assets/images/portraits/Hanley.jpeg
     alt: "placeholder image 2"
     title: "Dr. Torrie Hanley"
     excerpt: 'Dr. Torrance Hanley is an associate research scientist at the Northeastern University Marine Science Center. She is interested in examining the role of diversity in trophic interactions using seagrass and salt marsh communities. To learn more about Dr. Hanley’s research, please visit the links below or contact her with the information below. <br>
@@ -49,7 +49,7 @@ cameron:
     #btn_class: "btn--primary"
 
 unzueta:
-  - image_path: /assets/images/portraits/Andrea.png
+  - image_path: /assets/images/portraits/Andrea.jpg
     alt: "placeholder image 2"
     title: "Andrea Unzueta-Martinez"
     excerpt: 'Andrea Unzueta-Martinez is a doctoral candidate working in the lab of Dr. Jennifer Bowen. Ms. Unzueta-Martinez is interested in understanding the relationship between microbes and their hosts in the context of global change and disease in marine environments. Her research can help to identify ways to make oysters more resilient to changes in the ocean, fight disease, or growfaster. To learn more about Ms. Unzueta-Martinez’ research, please follow the information below. <br>
@@ -61,7 +61,7 @@ unzueta:
     #btn_class: "btn--primary"
 
 schaal:
-  - image_path: /assets/images/portraits/Schaal.png
+  - image_path: /assets/images/portraits/Schaal.jpg
     alt: "placeholder image 2"
     title: "Sara Schaal"
     excerpt: 'Sara Schaal is a doctoral candidate working in the lab of Dr. Katie Lotterhos. Ms. Schaal is interested in fisheries management, evolutionary adaptation to climate change, how local adaptation leads to population divergence and understanding ecology and evolution through the use of mathematical models. Her dissertation is using an integrated genomic approach to improve our unstanding and management of the Atlantic cod fisheries. <br>

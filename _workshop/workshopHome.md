@@ -21,7 +21,7 @@ imagesWorkshop:
   - image_path: /assets/images/workshop/2019Flyer.jpg
     alt: "placeholder image 1"
     title: "2019 Workshop"
-  - image_path: /assets/images/workshop/2019Flyer.jpg
+  - image_path: /assets/images/workshop/GenomicsWorkshopScheduleExamplepg1.jpg
     alt: "placeholder"
     title: "Sample Schedule"
   - image_path: /assets/images/workshop/2020Flyer.jpg

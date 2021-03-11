@@ -15,3 +15,11 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+This workshop will be held again in the future, pending funding.
+
+If you are interested in supporting this program, please contact our Outreach Program Coordinator, Sierra Muñoz (mscoutreach@northeastern.edu)
+
+## Past Workshops
+
+![](/assets/images/workshop/montage_small2.png)

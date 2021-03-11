@@ -25,6 +25,8 @@ imagesWorkshop:
     alt: "placeholder image 2"
     title: "2020 Workshop"
 
+photoTitle:
+  - title: "Photos"
 ---
 
 
@@ -40,6 +42,9 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 
 {% include feature_row id="pastWorkshop" type="center" %}
 
-{% include feature_row id="imagesWorkshop" %}
+{% include feature_row id="imagesWorkshop" type="center" %}
+
+{% include feature_row id="photoTitle" type="center" %}
+
 
 <hr style="border:2px solid gray">

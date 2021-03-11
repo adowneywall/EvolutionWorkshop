@@ -25,7 +25,7 @@ feature_row:
     url: "/workshops/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/portraits/Lotterhos3.jpeg
+  - image_path: /assets/images/portraits/Lotterhos1_cropped.png
     alt: "The Scientists"
     title: "The Scientists"
     excerpt: "Learn more about the amazing scientist that made this possible."

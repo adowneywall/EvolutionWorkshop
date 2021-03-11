@@ -23,6 +23,6 @@ As greenhouse gases such as carbon dioxide (CO<sub>2</sub>) are released into th
  
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/oaShellCrushActivity.pdf" width="800" height="1200">
+viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/oaShellCrushActivity.pdf" width="800" height="1000">
 
 

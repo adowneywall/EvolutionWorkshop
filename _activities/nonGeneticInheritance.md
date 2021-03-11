@@ -22,6 +22,6 @@ Calcification is a process that some marine organisms do to form their hard prot
  
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" width="800" height="1200">
+viewer?embedded=true&url=https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf" width="800" height="1000">
 
 

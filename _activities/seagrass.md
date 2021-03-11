@@ -22,6 +22,6 @@ Seagrass is a foundation species that creates a unique habitat for many differen
 
 ## Teacher Version of Activity
 
-## [PDF](https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/nonGeneticInheritanceActivity.pdf)
+## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/seagrassWastingDiseaseActivity.pdf)
 
 

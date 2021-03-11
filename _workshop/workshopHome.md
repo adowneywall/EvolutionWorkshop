@@ -40,24 +40,18 @@ imageActivitiesExcerpt:
   - excerpt: 'Hands-on exposure - Students interacting with graduate students and post-docs during the targeted activities portion of the workshop. For examples of some of these activities please visit our [Activities](/activities/) page!'
 
 imagesPosters:
-  - image_path: /assets/images/workshop/whatisEvolutionPoster_1200_900.jpg
+  - image_path: /assets/images/workshop/whatIsEvolutionPoster_1200_900.jpg
     alt: "placeholder image 1"
     title: "Evolution"
-  - image_path: /assets/images/workshop/WhatIsEpigeneticsPoster_1200_900.jpg
-    alt: "placeholder image 2"
-    title: "Epigenetics"
-  - image_path: /assets/images/workshop/geneticMisusePoster_1200x900.jpg
-    alt: "placeholder image 1"
-    title: "Misuse of Genetics"
   - image_path: /assets/images/workshop/OceanWarmingPoster_1200_900.jpg
     alt: "placeholder image 2"
     title: "Ocean Warming"
+  - image_path: /assets/images/workshop/WhatIsEpigeneticsPoster_1200_900.jpg
+    alt: "placeholder image 2"
+    title: "Epigenetics"
     
 imagePosterExcerpt: 
   - excerpt: 'Getting to know the terms - Students provide their understanding about evolutionary and marine terms before the start of the workshop.'
-
-feedback:
-  - title: "Feedback"
 
 testimonials: 
   - title: "Testimonials"
@@ -91,8 +85,6 @@ For additional outreach opportunities at the Marine Science Center at Northeaste
 {% include feature_row id="imagePosterExcerpt" type="center" %}
 
 <hr style="border:2px solid gray">
-
-{% include feature_row id="feedback" type="center" %}
 
 {% include feature_row id="testimonials" type="center" %}
 

@@ -36,7 +36,7 @@ hanley:
     #btn_class: "btn--primary"
 
 cameron:
-  - image_path: /assets/images/portraits/Cameron.png
+  - image_path: /assets/images/portraits/Cameron.jpg
     alt: "placeholder image 2"
     title: "Dr. Louise Cameron"
     excerpt: ' Dr. Louise Cameron completed her PhD at the Northeastern University Marine Science Center working in the Grabowski and Ries labs. Her research examined bivalve vulnerability and resilience to ocean acidification. She is currently doing a postdoc with Dr. Aleck Wang at Woods Hole Oceanographic Institute, where she is measuring benthic carbonate chemistry across Atlantic sea scallop fishing grounds to create a spatial model of the sensitivity of Atlantic sea scallop fishing grounds in future ocean acidification conditions. To learn more about Dr. Cameron’s research, please use the information below. <br>

@@ -17,14 +17,13 @@ currentNotification:
     For additional outreach opportunities at the Marine Science Center at Northeastern University please visit our [outreach webpage](https://cos.northeastern.edu/marinescience/outreach/) or contact our Outreach Program Coordinator, Sierra Muñoz ([mscoutreach@northeastern.edu](mscoutreach@northeastern.edu)).' 
 
 pastWorkshop:
-  - title: "Past Workshops
+  - title: "Past Workshops"
 
 imagesWorkshop:
   - image_path: /assets/images/workshop/montage_small2.png
-    alt: "placeholder image 2"
+    alt: "placeholder image 1"
   - image_path: /assets/images/workshop/workshop_thumb.png
     alt: "placeholder image 2"
-    title: "Past Workshops"
         
 ---
 

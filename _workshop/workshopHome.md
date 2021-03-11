@@ -8,18 +8,23 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_beachSurvey.png
 
-
-intro: 
-  - excerpt: 'Thank you for your patience while this page is under construction.'
-
+currentNotification:
+  - image_path: /assets/images/workshop/workshop_thumb.png
+    alt: "placeholder image 2"
+    title: "Workshop Announcements - March 2021"
+    excerpt: 'Workshops are currently not on-going at this time. We hope to have more in the future, pending funding. <br>
+    <br>
+    For additional outreach opportunities at the Marine Science Center at Northeastern University please visit our [outreach webpage](https://cos.northeastern.edu/marinescience/outreach/) or contact our Outreach Program Coordinator, Sierra Muñoz ([mscoutreach@northeastern.edu](mscoutreach@northeastern.edu)).' 
+    
+pastWorkshop:
+    - image_path: /assets/images/workshop/montage_small2.png
+    alt: "placeholder image 2"
+    title: "Past Workshops"
+    
+    
+    
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="currenNotification" type="center" %}
 
-This workshop will be held again in the future, pending funding.
-
-If you are interested in supporting this program, please contact our Outreach Program Coordinator, Sierra Muñoz (mscoutreach@northeastern.edu)
-
-## Past Workshops
-
-![](/assets/images/workshop/montage_small2.png)
+{% include feature_row id="pastWorkshop" type="right" %}

@@ -24,6 +24,6 @@ As greenhouse gases such as carbon dioxide (CO<sub>2</sub>) are released into th
  
 ## Teacher Version of Activity
 
-## [PDF](https://github.com/EvolutionWorkshop/EvolutionWorkshop.github.io/blob/master/assets/activityPDF/oaShellCrushActivity.pdf)
+## [PDF](https://raw.githubusercontent.com/EvolutionWorkshop/EvolutionWorkshop.github.io/master/assets/activityPDF/oaShellCrushActivity.pdf)
 
 

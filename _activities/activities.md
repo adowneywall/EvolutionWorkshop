@@ -80,8 +80,8 @@ slim:
     **Duration** <br>
     Class time: 30 - 40 minutes'
     url: "/slim/"
-    #btn_label: "Full Activity"
-    #btn_class: "btn--primary"
+    btn_label: "Full Activity"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

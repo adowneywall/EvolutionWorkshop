@@ -12,8 +12,8 @@ sidebar:
   - title: "Next Generation Science Standards"
     text: " **HS-LS4-2 Biological Evolution: Unity and Diversity** Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual repro-duction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment. <br> **HS-LS2-2 Ecosystems: Interactions, Energy, and Dynamics** Use mathematical representations to support and revise explanations based on evidence about factors affecting biodiversity and populations in ecosystems of different scales."
   - title: "Developer"
-    text: "[Andrea Unzueta-Martinez](/scientists/)"
-    image: /assets/images/portraits/Andrea.jpg
+    text: "[Sara Schaal](/scientists/)"
+    image: /assets/images/portraits/Schaal.jpg
 
 ---
 

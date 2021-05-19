@@ -69,14 +69,19 @@ microbe:
     btn_label: "Full Activity"
     btn_class: "btn--primary"
 
-#slim:
-#  - image_path: /assets/images/activities/slim_thumb.png
-#    alt: "placeholder image 2"
-#    title: "Slim Activity"
-#    excerpt: ''
-#    url: "#test-link"
-#    #btn_label: "Full Activity"
-#    #btn_class: "btn--primary"
+slim:
+  - image_path: /assets/images/activities/slim_thumb.png
+    alt: "placeholder image 2"
+    title: "Slim Activity"
+    excerpt: '**Overview**  <br>
+    Using state-of-the-art simulation software to examine evolution and adaptation. <br>
+    **Learning Level** <br>
+    High School (9th - 12th) <br>
+    **Duration** <br>
+    Class time: 30 - 40 minutes'
+    url: "/slim/"
+    #btn_label: "Full Activity"
+    #btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
